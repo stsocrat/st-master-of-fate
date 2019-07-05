@@ -4,3 +4,18 @@
   url:
   excerpt:
   image:
+
+- title: Блог
+  url: /blog/
+  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
+  image: billions.jpg
+
+- title: Статьи
+  url: /articles/
+  excerpt: ""
+  image: billions.jpg
+
+- title: Глоссарий
+  url: /glossary/
+  excerpt: ""
+  image: billions.jpg
